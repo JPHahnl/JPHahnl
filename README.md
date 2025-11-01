@@ -21,31 +21,7 @@ Creator of the **Sys.Kernel Framework** — a modular .NET 9 / C# 13 architectur
 ---
 
 ### 🧱 Sys.Kernel Framework
-
-> *Architecture is not a collection of code — it’s a covenant of clarity.*
-
-| Layer | Purpose | Namespace |
-|:--|:--|:--|
-| **Sdk** | Build-time metadata, attributes, constants | `Syntony.Sys.Kernel.Sdk` |
-| **Core** | Runtime primitives, immutables | `Syntony.Sys.Kernel.Core` |
-| **Runtime** | Execution engine, DI, configuration | `Syntony.Sys.Kernel.Runtime` |
-| **Diagnostics** | Logging, EventSource, telemetry | `Syntony.Sys.Kernel.Diagnostics` |
-| **Development** | Analyzers, tooling, VSIX integration | `Syntony.Sys.Kernel.Development` |
-| **Tests** | Architectural + performance validation | `Syntony.Sys.Kernel.Tests` |
-
-Each assembly is **analyzer-clean**, **deterministic**, and **philosophically coherent**.  
-Every warning is a teacher — not a suggestion.
-
----
-
-### ⚙️ Technology & Principles
-
-- 🧠 **.NET 9 · C# 13** — cutting-edge language features  
-- 🧩 **Analyzer-Clean** — zero warnings under `AsyncFixer`, `Meziantou`, `Roslynator`, `Sonar`  
-- 🧪 **NUnit 4.4 + NetArchTest** — verifiable architecture and performance  
-- 🔒 **Secure-by-Default** — no hidden states, no undefined behavior  
-- ♻️ **Deterministic Builds** — byte-identical, reproducible, AOT-ready  
-- 🌌 **Königsweg Philosophy** — Clarity · Strength · Dignity
+*(…same content as before…)*
 
 ---
 
@@ -55,10 +31,11 @@ Author of:
 
 - 📘 *Klarheit Stärke Würde — Auf dem Königsweg*  
 - 💻 *Life.exe* · *Life 2.0.exe — Der Mensch nach der Maschine*  
-- 🧩 Essays on consciousness, AI, and the art of engineering.
+- 🧩 Essays on consciousness, AI, and the art of engineering.  
+- 📰 **[Read my latest article on Klarheit · Stärke · Würde →](https://syntonyblog.wordpress.com/)**
 
 > The same principles that guide clean architecture guide a clean life.  
-> **Discipline is design.**  **Elegance is ethics.**
+> **Discipline is design. Elegance is ethics.**
 
 ---
 
