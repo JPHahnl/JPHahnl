@@ -30,9 +30,9 @@ Creator of the **Sys.Kernel Framework** — a modular .NET 9 / C# 13 architectur
 Author of:
 
 - 📘 *Klarheit Stärke Würde — Auf dem Königsweg*  
-- 💻 *Life.exe* · *Life 2.0.exe — Der Mensch nach der Maschine*  
+- 💻 *Life.exe* · *Ein absurder Versuch, das Universum – und dich – zu verstehen*  
 - 🧩 Essays on consciousness, AI, and the art of engineering.  
-- 📰 **[Read my latest article on Klarheit · Stärke · Würde →](https://syntonyblog.wordpress.com/)**
+- 📰 **[Read articles on Klarheit · Stärke · Würde →](https://syntonyblog.wordpress.com/)**
 
 > The same principles that guide clean architecture guide a clean life.  
 > **Discipline is design. Elegance is ethics.**
